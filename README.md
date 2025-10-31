@@ -24,3 +24,7 @@ If you ever update the code Later make sure You use this
 git add .
 git commit -m "Update game logic"
 git push
+
+
+## 📜 License
+This project is open-source and available under the MIT License.
